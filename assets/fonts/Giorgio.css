@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Giorgio';
+    src: url('fonts/Giorgio.eot');
+    src: url('fonts/Giorgio.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Giorgio.woff2') format('woff2'),
+         url('fonts/Giorgio.woff') format('woff'),
+         url('fonts/Giorgio.ttf')  format('truetype'),
+         url('fonts/Giorgio.svg#Giorgio') format('svg');
+}
